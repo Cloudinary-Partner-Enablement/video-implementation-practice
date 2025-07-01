@@ -89,7 +89,7 @@ cloudinary.uploader
         {
           background: "blurred:400:15",
           width: 500,
-          height: 300,
+          height: 200,
           crop: "pad",
           effect: "progressbar:bar:blue:8",
         },
