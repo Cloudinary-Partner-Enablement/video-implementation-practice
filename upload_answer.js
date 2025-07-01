@@ -17,16 +17,6 @@ cloudinary.config({
 ////////////////////////////////////////////
 
 ////////////////////////////////////////////
-// Example video upload:
-// cloudinary.uploader
-//   .upload("hat.mp4", {
-//     use_filename: true,
-//     resource_type: "video",
-//   })
-//   .then((result) => console.log(result));
-////////////////////////////////////////////
-
-////////////////////////////////////////////
 // Upload Challenge #1
 // Video: https://cdn.pixabay.com/video/2025/04/23/273883_large.mp4
 // Upload the video with the following parameters:
