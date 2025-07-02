@@ -30,10 +30,10 @@ cloudinary.config({
 // Upload Challenge #1
 // Video: https://cdn.pixabay.com/video/2025/04/23/273883_large.mp4
 // Upload the video with the following parameters:
-//    public_id
-//    asset_folder (helpful to put all practice uploads into a single folder)
-//    resource_type
-//    tags
+//    public_id (choose your own)
+//    asset_folder (choose your own - helpful to put all practice uploads into a single folder)
+//    resource_type (choose the appropriate type)
+//    tags (choose your own)
 ////////////////////////////////////////////
 
 ////////////////////////////////////////////
@@ -43,8 +43,8 @@ cloudinary.config({
 // Include the following parameters:
 //    resource_type
 //    async
-//    chunk_size
-//    asset_folder (helpful to put all practice uploads into a single folder)
+//    chunk_size (choose something less than 20mb)
+//    asset_folder (choose your own - helpful to put all practice uploads into a single folder)
 //    auto_chaptering
 //    auto_transcription
 ////////////////////////////////////////////
@@ -55,7 +55,7 @@ cloudinary.config({
 // Eager transformations - Upload the video
 // Include the following parameters:
 //    resource_type
-//    asset_folder (helpful to put all practice uploads into a single folder)
+//    asset_folder (choose your own - helpful to put all practice uploads into a single folder)
 //    eager
 //    eager_async
 // Include the following transformations:
