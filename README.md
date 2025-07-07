@@ -3,7 +3,7 @@
 ## Prerequisites
 
 1. A free Cloudinary account
-2. Find your Cloudinary URL in your account and add your URL to a `.env` file (CLOUDINARY_URL=cloudinary://<your_api_key>:<your_api_secret>@<yourcloudname>)
+2. Find your Cloudinary URL in your account and add your URL to a `.env` file (`CLOUDINARY_URL=cloudinary://<your_api_key>:<your_api_secret>@<yourcloudname>`)
 3. Install the dependencies w/ `npm install`
 4. Review the documentation
 
