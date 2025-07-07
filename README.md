@@ -18,6 +18,12 @@
 1. Open the `upload.js` file
 2. Follow the prompts to upload video files with various parameters
 
+   a. Challenge #1 - Basic upload w/ common parameters
+
+   b. Challenge #2 - Chunk upload w/ parameters
+
+   c. Challenge #3 - Eager transformations
+
 ### Video player practice
 
 1. Open `videoplayer.js`
