@@ -56,9 +56,9 @@ cloudinary.config({
 // Include the following parameters:
 //    resource_type
 //    asset_folder (choose your own - helpful to put all practice uploads into a single folder)
-//    eager
 //    eager_async
-// Include the following transformations:
+//    eager
+// Include the following eager transformations:
 //    crop pad w/ a blurred background
 //    progressbar
 ////////////////////////////////////////////
