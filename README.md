@@ -27,4 +27,4 @@
 ### Video player practice
 
 1. Open `videoplayer.js`
-2. Follow prompts to setup a Cloudinary Video Player
+2. Follow prompts to setup a Cloudinary Video Player with specific parameters and functions
